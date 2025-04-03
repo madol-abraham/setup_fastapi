@@ -7,3 +7,4 @@ tensorflow
 python-dotenv
 pandas
 numpy
+python-multipart
